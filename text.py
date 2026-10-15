@@ -1,1 +1,1 @@
-print("stopa 67")
+print("stopa")
